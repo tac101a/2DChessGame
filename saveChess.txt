@@ -1,0 +1,18 @@
+Try shifting, cell: d2 to d4 
+
+Move completed 
+
+Try shifting, cell: d7 to d5 
+
+Try shifting, cell: e2 to e4 
+
+Move completed 
+
+Try shifting, cell: d5 to e4 
+
+Try shifting, cell: c2 to c3 
+
+Move completed 
+
+Try shifting, cell: g8 to f6 
+
